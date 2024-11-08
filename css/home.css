@@ -1,7 +1,7 @@
 main {
   background: linear-gradient(to right, rgba(0, 0, 0, .7), rgba(0, 0, 0, .7)), url('../images/genie.jpg');
   width: 100%;
-  min-height: 100vh;
+  min-height: 70vh;
   background-repeat: no-repeat;
   background-size: cover;
   background-position: top;
